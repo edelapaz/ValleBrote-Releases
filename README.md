@@ -33,6 +33,8 @@ Se mantienen los alimentos desde la mochila, el descanso diario, tratamientos de
 
 1.384 comprobaciones integradas aprobadas; ZIP ejecutado desde una carpeta vacía; 11 pruebas del instalador; actualización con el nuevo helper sobre los ZIP originales 0.2.2 y 0.3.0, con rollback simulado y arranque correcto. El perfil real del jugador mantuvo el mismo hash antes y después. Historial y privacidad revisados a dos tamaños de ventana. Estas pruebas no certifican todas las configuraciones de Windows; para diagnosticar un fallo concreto se necesita su `error.txt`.
 
+Después de publicar también se comprobó el instalador original de la 0.3.0: descargó la 0.3.1 pública firmada, actualizó una copia existente y abrió el juego nuevo, que completó el diagnóstico nativo sin cambiar el perfil real.
+
 Las versiones 0.2.2 y 0.3.0 emplean su helper antiguo durante la primera transición. Si esa actualización falla, usa el reparador anterior. Las siguientes entregas podrán preparar un helper actualizado antes de cerrar el juego.
 
 El código fuente se mantiene en el repositorio privado. Aquí se publican únicamente información de distribución y archivos compilados en **Releases**.
