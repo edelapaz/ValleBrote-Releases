@@ -4,6 +4,22 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.6.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.6.0 — ganadería y compostera renovada
+
+- Gallinas, vacas y ovejas visibles e interactuables en el corral.
+- Gallinero y establo construibles con monedas, madera y piedra; cuatro plazas por alojamiento.
+- Alimento, agua, limpieza, cariño, salud y medicina, con límites diarios y gasto real de recursos.
+- Huevos, leche y lana con calidad normal, buena o excelente. Producción por días del valle, también al dormir.
+- La producción pendiente conserva su calidad y permanece en el animal si la mochila está llena.
+- Mercado > Ganadería: compra confirmada de animales y suministros, y venta por cantidad de productos.
+- Dos investigaciones nuevas de un punto: el presupuesto completo sigue cabiendo en los 236 puntos hasta nivel 60.
+- Integración con mochila, accesos rápidos, descubrimientos, consumo de alimentos, almacén y feria semanal.
+- Guardado persistente de animales, cuidados, salud, cariño, alojamientos, ciclos y producción pendiente.
+- Compostera renovada: lista visual de productos disponibles, cantidades y resultado claros, recogida sin cambiar accesos y confirmación para usar productos valiosos.
+- Actualización firmada desde la 0.5.0, con copia de seguridad y conservación de las partidas.
+
 ## v0.5.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.5.0 — mochila, vecinos y tiendas
