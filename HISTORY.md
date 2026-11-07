@@ -4,6 +4,17 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.9.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.9.0 — minería y metalurgia
+
+- Hachas y picos básicos, de cobre y de acero, con calidad visual y mejoras reales de extracción.
+- Seis vetas de cobre, hierro y carbón en la cantera, con requisitos, vigor y renovación diaria.
+- Horno construible en el hogar: minerales y carbón se transforman en lingotes usando el reloj del valle, incluido el descanso.
+- Planos de herramientas metálicas en la mesa del hogar; las mejoras transforman la herramienta anterior y conservan sus accesos.
+- Tienda de minería, compras y ventas por cantidad, feria y almacén conectados.
+- Investigaciones existentes y guardado compatible: las partidas previas conservan recursos, progreso, ganadería, cultivos y pesca.
+
 ## v0.8.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.8.0 — pesca de río
