@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.4.0",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.4.0",
+            "notes": "Valle Brote 0.4.0 — hogar y exploración\n\n• El almacén muestra recursos guardados y se vacía al retirar las últimas unidades.\n• Dormir oscurece y recupera la pantalla suavemente; el día avanza una sola vez durante la oscuridad.\n• Dos ampliaciones de casa, almacenes de 48/72 espacios y 12 parcelas construibles.\n• Bosque del norte y cantera del noreste con materiales renovables cada día.\n• Conversaciones diarias, recuerdos de amistad y mejores encargos para amigos.\n• Diez investigaciones del valle distribuidas entre I–V. El conjunto completo cabe en los puntos disponibles hasta nivel 60.\n• Navegación adicional con mando en menús y proyectos. Integración Steam preparada para App ID y SDK propios.\n• Se conservan las partidas anteriores. Actualización firmada compatible con las versiones 0.2.2 y 0.3.0–0.3.3.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.3.3",
             "date": "2026-11-06",
             "title": "Valle Brote 0.3.3",
