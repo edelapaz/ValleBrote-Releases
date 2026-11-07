@@ -4,6 +4,21 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.5.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.5.0 — mochila, vecinos y tiendas
+
+- Los objetos asignados a accesos rápidos se consultan en la barra y se ocultan de la lista de la mochila, conservando su stock real.
+- Eliminación de cantidades elegidas con confirmación y protección de las últimas herramientas agrícolas sin reemplazo asequible.
+- Herramientas básicas y mejoradas a la venta, con nivel, investigación, stock y protección frente a compras duplicadas.
+- Nuevos retratos 3D de los vecinos e Iris dentro de tarjetas de conversación y solicitud.
+- Indicadores de puntos y novedades en Investigaciones, Diario, Talentos, Regalos diarios y Mochila.
+- Historial persistente de primeros descubrimientos; los productos nuevos se destacan hasta revisarlos.
+- Estadísticas al pasar el cursor, estrellas por calidad/nivel real y herramientas comunes, épicas y legendarias.
+- Feria semanal con tarjetas de productos, imagen, cantidad elegida, máximo real y confirmación de la transacción.
+- Almacén del hogar con paneles separados para lo que llevas y lo guardado, cantidades y transferencia directa.
+- Actualización firmada desde la 0.4.0, con copia de seguridad y conservación de las partidas.
+
 ## v0.4.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.4.0 — hogar y exploración
