@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.9.0",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.9.0",
+            "notes": "Valle Brote 0.9.0 — minería y metalurgia\n\n• Hachas y picos básicos, de cobre y de acero, con calidad visual y mejoras reales de extracción.\n• Seis vetas de cobre, hierro y carbón en la cantera, con requisitos, vigor y renovación diaria.\n• Horno construible en el hogar: minerales y carbón se transforman en lingotes usando el reloj del valle, incluido el descanso.\n• Planos de herramientas metálicas en la mesa del hogar; las mejoras transforman la herramienta anterior y conservan sus accesos.\n• Tienda de minería, compras y ventas por cantidad, feria y almacén conectados.\n• Investigaciones existentes y guardado compatible: las partidas previas conservan recursos, progreso, ganadería, cultivos y pesca.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.8.0",
             "date": "2026-11-07",
             "title": "Valle Brote 0.8.0",
