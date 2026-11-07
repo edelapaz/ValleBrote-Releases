@@ -4,6 +4,15 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.3.3 · 06/11/2026 · Publicada
+
+- Avisos discretos y visibles al comenzar el día (06:00), la tarde (15:00), la noche (19:00) y cada estación. Siguen el reloj del valle y se pueden cerrar.
+- Los vecinos muestran ! cuando tienen encargos y ? cuando puedes entregar. Tras el pedido inicial de Alma, los cuatro vecinos renuevan tareas; su dificultad y botín crecen con tu nivel y encargos completados.
+- Iris, viajera especial, camina hasta tu casa desde nivel 2 y el segundo día. Ofrece misiones voluntarias con plazo del valle, progreso y botín visibles. Pausar detiene el plazo; dormir lo adelanta.
+- Todas las misiones nuevas dan XP y monedas. Los vecinos añaden semillas; Iris puede añadir azadas o regaderas especiales de tu nivel, con investigación y herramienta base disponibles.
+- Herramientas del viajero: área de su modelo, 1 vigor menos (mínimo 1) y +2 XP por parcela trabajada correctamente. Se guardan, equipan y almacenan sin duplicar recompensas.
+- Los encargos activos, plazos y cobros se conservan al guardar. Si vence una misión de Iris, conservas los recursos y podrá regresar después. En estaciones sin cultivos aptos ofrece recolección de semillas.
+
 ## v0.3.2 · 06/11/2026 · Publicada
 
 - Canasta inicial disponible y equipada sin gastar investigación; puedes seleccionarla en la barra para recoger cultivos maduros. La barra inicial incluye la canasta y se respetan las barras personalizadas.
