@@ -4,6 +4,23 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.7.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.7.0 — transformación, huerto y comunidad
+
+- Queso y mantequilla elaborados con leche; lana transformable en hilo y tela.
+- Tortilla de la huerta, flan de leche y sopa cremosa con ingredientes ganaderos y agrícolas.
+- Fabricación en la mesa del hogar con calidad explícita, cantidades, máximos y confirmación del lote.
+- Requisitos de investigaciones existentes, sin aumentar precios ni el presupuesto de 236 puntos.
+- Compra y venta por cantidad en Mercado > Artesanía; venta en la feria semanal.
+- Nuevos productos integrados con mochila, calidad, alimentos, almacén, descubrimientos y guardado compatible.
+- Buzón discreto y animado de sugerencias: abre un borrador revisable dirigido a edelapaz@gmail.com, sin adjuntar partidas ni enviar automáticamente.
+- Ocho cultivos nuevos: papa, lechuga, cebolla, pimiento, fresa, melón, sandía y piña, con semillas propias, temporadas, calidad y precios.
+
+- Semillas mixtas variadas: alternan automáticamente especies aptas para la estación, el nivel y las investigaciones. Tomate y lechuga disponibles desde el comienzo de primavera. El turno se conserva al guardar. Los paquetes propios permiten elegir exactamente la especie.
+
+- Actualización compatible desde la 0.6.1: conserva partida, animales, cuidados, inventario, cultivos, investigaciones y progreso.
+
 ## v0.6.1 · 07/11/2026 · Publicada
 
 Valle Brote 0.6.1 — cierre de Windows corregido
