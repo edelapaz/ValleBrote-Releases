@@ -4,6 +4,15 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.6.1 · 07/11/2026 · Publicada
+
+Valle Brote 0.6.1 — cierre de Windows corregido
+
+- Los recursos de accesibilidad de Windows se liberan mientras la ventana y la entrada del juego siguen disponibles, antes del cierre del motor.
+- El cierre se procesa desde el bucle del juego, también al salir para instalar una actualización o al cerrar la ventana desde Windows.
+- Se conserva el guardado normal y la copia de seguridad del actualizador.
+- Incluye la ganadería y la compostera renovada de la 0.6.0, con partidas compatibles.
+
 ## v0.6.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.6.0 — ganadería y compostera renovada
