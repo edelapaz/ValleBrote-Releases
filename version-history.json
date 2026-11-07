@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.6.1",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.6.1",
+            "notes": "Valle Brote 0.6.1 — cierre de Windows corregido\n\n• Los recursos de accesibilidad de Windows se liberan mientras la ventana y la entrada del juego siguen disponibles, antes del cierre del motor.\n• El cierre se procesa desde el bucle del juego, también al salir para instalar una actualización o al cerrar la ventana desde Windows.\n• Se conserva el guardado normal y la copia de seguridad del actualizador.\n• Incluye la ganadería y la compostera renovada de la 0.6.0, con partidas compatibles.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.6.0",
             "date": "2026-11-07",
             "title": "Valle Brote 0.6.0",
