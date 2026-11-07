@@ -4,6 +4,15 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.3.2 · 06/11/2026 · Publicada
+
+- Canasta inicial disponible y equipada sin gastar investigación; puedes seleccionarla en la barra para recoger cultivos maduros. La barra inicial incluye la canasta y se respetan las barras personalizadas.
+- Cesta recolectora investigada y equipada: +1 semilla del arbusto diario, 1 vigor menos por cosecha y 1 producto adicional cada 5 cosechas.
+- Cesta de campo investigada, fabricada y equipada: +2 semillas del arbusto, 1 vigor menos por cosecha y 1 producto adicional cada 3 cosechas. Los bonos sustituyen a los de la canasta básica.
+- Los encargos de recolección piden una cantidad de semillas que el arbusto puede proporcionar durante su propio objetivo, incluso sin talentos. Los encargos ya aceptados conservan progreso y recompensa.
+- Migración de la canasta inicial sin duplicar equipo ni sustituir accesorios elegidos. Se conserva la decisión de quitarla después de actualizar.
+- Continúan el historial de versiones, las actualizaciones verificadas y las estadísticas voluntarias.
+
 ## v0.3.1 · 06/11/2026 · Publicada
 
 Valle Brote 0.3.1
