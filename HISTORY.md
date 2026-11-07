@@ -4,6 +4,19 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.4.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.4.0 — hogar y exploración
+
+- El almacén muestra recursos guardados y se vacía al retirar las últimas unidades.
+- Dormir oscurece y recupera la pantalla suavemente; el día avanza una sola vez durante la oscuridad.
+- Dos ampliaciones de casa, almacenes de 48/72 espacios y 12 parcelas construibles.
+- Bosque del norte y cantera del noreste con materiales renovables cada día.
+- Conversaciones diarias, recuerdos de amistad y mejores encargos para amigos.
+- Diez investigaciones del valle distribuidas entre I–V. El conjunto completo cabe en los puntos disponibles hasta nivel 60.
+- Navegación adicional con mando en menús y proyectos. Integración Steam preparada para App ID y SDK propios.
+- Se conservan las partidas anteriores. Actualización firmada compatible con las versiones 0.2.2 y 0.3.0–0.3.3.
+
 ## v0.3.3 · 06/11/2026 · Publicada
 
 - Avisos discretos y visibles al comenzar el día (06:00), la tarde (15:00), la noche (19:00) y cada estación. Siguen el reloj del valle y se pueden cerrar.
