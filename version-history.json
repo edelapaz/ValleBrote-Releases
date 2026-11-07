@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.3.2",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.3.2",
+            "notes": "• Canasta inicial disponible y equipada sin gastar investigación; puedes seleccionarla en la barra para recoger cultivos maduros. La barra inicial incluye la canasta y se respetan las barras personalizadas.\n• Cesta recolectora investigada y equipada: +1 semilla del arbusto diario, 1 vigor menos por cosecha y 1 producto adicional cada 5 cosechas.\n• Cesta de campo investigada, fabricada y equipada: +2 semillas del arbusto, 1 vigor menos por cosecha y 1 producto adicional cada 3 cosechas. Los bonos sustituyen a los de la canasta básica.\n• Los encargos de recolección piden una cantidad de semillas que el arbusto puede proporcionar durante su propio objetivo, incluso sin talentos. Los encargos ya aceptados conservan progreso y recompensa.\n• Migración de la canasta inicial sin duplicar equipo ni sustituir accesorios elegidos. Se conserva la decisión de quitarla después de actualizar.\n• Continúan el historial de versiones, las actualizaciones verificadas y las estadísticas voluntarias.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.3.1",
             "date": "2026-11-06",
             "title": "Valle Brote 0.3.1",
