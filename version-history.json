@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.8.0",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.8.0",
+            "notes": "Valle Brote 0.8.0 — pesca de río\n\n• Caña, lombrices y cebos artesanales con cuatro especies de peces y tres calidades.\n• Dos pozas visibles del río, lanzamiento, picada y recogida con ratón, teclado o mando.\n• Lances guardados, límite diario y protección de las capturas cuando la mochila está llena.\n• Cuatro platos de pescado y cebo elaborable, conectados con investigaciones existentes y la mesa del hogar.\n• Compra de caña y cebos; venta de peces por cantidad y calidad en tienda y feria.\n• Clic izquierdo usa el acceso rápido seleccionado, con acercamiento automático al destino. Los alimentos se usan también al hacer clic en el mundo.\n• Compatibilidad de las partidas anteriores sin conceder recursos ni cobrar investigaciones de nuevo.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.7.0",
             "date": "2026-11-07",
             "title": "Valle Brote 0.7.0",
