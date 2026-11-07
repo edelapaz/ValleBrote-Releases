@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.7.0",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.7.0",
+            "notes": "Valle Brote 0.7.0 — transformación, huerto y comunidad\n\n• Queso y mantequilla elaborados con leche; lana transformable en hilo y tela.\n• Tortilla de la huerta, flan de leche y sopa cremosa con ingredientes ganaderos y agrícolas.\n• Fabricación en la mesa del hogar con calidad explícita, cantidades, máximos y confirmación del lote.\n• Requisitos de investigaciones existentes, sin aumentar precios ni el presupuesto de 236 puntos.\n• Compra y venta por cantidad en Mercado > Artesanía; venta en la feria semanal.\n• Nuevos productos integrados con mochila, calidad, alimentos, almacén, descubrimientos y guardado compatible.\n• Buzón discreto y animado de sugerencias: abre un borrador revisable dirigido a edelapaz@gmail.com, sin adjuntar partidas ni enviar automáticamente.\n• Ocho cultivos nuevos: papa, lechuga, cebolla, pimiento, fresa, melón, sandía y piña, con semillas propias, temporadas, calidad y precios.\n\n• Semillas mixtas variadas: alternan automáticamente especies aptas para la estación, el nivel y las investigaciones. Tomate y lechuga disponibles desde el comienzo de primavera. El turno se conserva al guardar. Los paquetes propios permiten elegir exactamente la especie.\n\n• Actualización compatible desde la 0.6.1: conserva partida, animales, cuidados, inventario, cultivos, investigaciones y progreso.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.6.1",
             "date": "2026-11-07",
             "title": "Valle Brote 0.6.1",
