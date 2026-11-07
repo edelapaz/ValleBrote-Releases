@@ -1,0 +1,39 @@
+{
+    "entries": [
+        {
+            "version": "0.3.1",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.3.1",
+            "notes": "Valle Brote 0.3.1\r\n\r\n• Nuevo historial de versiones desde el menú principal: consulta fechas, novedades y la versión instalada.\r\n• Versiones anteriores conservadas para seguir el progreso del proyecto, incluidas las entregas sustituidas y sus correcciones.\r\n• Historial incluido para consultar sin conexión y actualización del listado desde la nube al abrirlo.\r\n• Cada publicación incorpora automáticamente sus novedades al historial del juego y al historial público del repositorio.\r\n\r\n• Actualización más resistente: comprueba bloqueos y escritura antes de reemplazar archivos; verifica copias y restaura únicamente lo modificado.\r\n• Reparador independiente para instalaciones que no pueden actualizarse: instala en la carpeta del usuario y conserva el perfil de juego.\r\n• El juego prepara una copia de su guardado antes de iniciar la actualización y verifica la firma del actualizador descargado.\r\n• Estadísticas opcionales con consentimiento: tiempo de partida activa e instalaciones estimadas, sin enviar nombres, recursos ni partidas. Opción para desactivar y solicitar eliminación.\r\n• Panel HTML local y privado para consultar totales, tendencias y versiones. Solo el colector de estadísticas se aloja en Cloudflare.\r\n• Publicación condicionada a pruebas de instalación limpia, actualización de versiones anteriores y conservación del perfil.\r\n\r\nSe mantienen las funciones de la 0.3.0 y su formato de guardado. No se modifican permisos ni protecciones de Windows.",
+            "status": "Publicada"
+        },
+        {
+            "version": "0.3.0",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.3.0",
+            "notes": "Valle Brote 0.3.0\n\n• Botón COMER visible en la mochila. Los alimentos comunes recuperan vigor parcial; el festín de cosecha recupera hasta 100. No se consume comida si no puede recuperar vigor.\n• Dormir recupera vigor una sola vez por día del juego. El bloqueo se conserva al guardar y cargar. Comer no consume el descanso diario.\n• La tienda muestra qué nivel e investigación faltan y bloquea las compras que no cumplen, incluso dentro de un carrito con varios productos.\n• Tres tratamientos de cultivo: tónico de crecimiento (+15 % durante 12 h), gel de humedad (25 % menos pérdida de agua durante 24 h) y bálsamo vegetal (repara daño y fertilidad).\n• Nueva sección de tratamientos en Investigaciones, con requisitos y puntos compartidos con los conocimientos anteriores. Las 39 investigaciones anteriores se conservan.\n• Investigaciones con estados grandes y diferenciados por texto y color: ACTIVADA, LISTA PARA ACTIVAR y BLOQUEADA.\n• Descarga completa para Windows, con DirectStorage. Actualización desde el juego con guardado conservado, verificación de firma e integridad y copia de seguridad.",
+            "status": "Publicada"
+        },
+        {
+            "version": "0.2.2",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.2.2",
+            "notes": "Valle Brote 0.2.2\n\nCorregido el error «No se encontró DSTORAGE.dll» al abrir una descarga nueva en Windows.\n\n• El ZIP incluye dstorage.dll, dstoragecore.dll y todas las bibliotecas nativas de la compilación.\n• El empaquetado verifica la presencia y el SHA-256 de cada DLL antes de firmar el manifiesto.\n• El instalador rechaza paquetes que omiten las bibliotecas DirectStorage antes de modificar la instalación.\n\nDescarga y extrae TODOS los archivos del ZIP a una carpeta nueva. Abre ValleBrote.exe desde la carpeta extraída. No es necesario descargar DLL por separado. Tu partida anterior se conserva en el mismo equipo.\n\nIncluye las mejoras de avisos, accesos rápidos, controles con ratón, regalos y cultivos con el reloj del valle y actualizaciones desde la nube.",
+            "status": "Publicada"
+        },
+        {
+            "version": "0.2.1",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.2.1",
+            "notes": "Valle Brote 0.2.1\n\n• Avisos más visibles durante 12 segundos, incluso junto a edificios y cultivos.\n• Barra rápida compacta con objetos disponibles y asignaciones conservadas.\n• Camina con clic y acércate automáticamente a vecinos, puertas, cofre, cama y estaciones.\n• Cambia el cultivo de las semillas mixtas pulsando su nombre sobre la barra rápida.\n• Regalos tras 30 minutos activos del reloj del valle, con un cobro por día del juego.\n• Cultivos sincronizados con el reloj del valle, incluido el descanso.\n• Consulta de versiones y novedades al iniciar y durante la partida. Actualizaciones firmadas, SHA-256, copia de seguridad e instalación al guardar y cerrar.\n• Corregida la ubicación del instalador en Windows para evitar el acceso denegado al reemplazar archivos.\n\nSi descargaste la versión de prueba 0.2.0, descarga y extrae este ZIP completo una vez. Se conserva tu partida; las futuras actualizaciones utilizan el instalador corregido.",
+            "status": "Sustituida"
+        },
+        {
+            "version": "0.2.0",
+            "date": "2026-11-06",
+            "title": "Valle Brote 0.2.0",
+            "notes": "Valle Brote 0.2.0\n\n• Avisos más grandes, contrastados y visibles durante 12 segundos, incluso junto a edificios y cultivos.\n• Barra rápida compacta: solo aparecen objetos disponibles. Se conservan las asignaciones manuales.\n• Desplazamiento con clic y aproximación automática a vecinos, puertas, estaciones y almacenamiento.\n• Cambia el cultivo de las semillas mixtas haciendo clic en su nombre sobre la barra rápida.\n• Calendario de agradecimiento basado en el reloj del valle: 30 minutos activos del juego por día. Dormir comienza otro día sin sumar minutos activos.\n• Los cultivos avanzan con el reloj del valle, incluido el descanso, respetando agua, estación y bonos.\n• Consulta de versiones y novedades antes de jugar, aviso durante la partida e instalación automática al guardar y cerrar. Actualizaciones firmadas con verificación SHA-256 y copia de seguridad.",
+            "status": "Sustituida"
+        }
+    ]
+}
