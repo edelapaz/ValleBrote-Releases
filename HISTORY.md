@@ -4,6 +4,18 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.8.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.8.0 — pesca de río
+
+- Caña, lombrices y cebos artesanales con cuatro especies de peces y tres calidades.
+- Dos pozas visibles del río, lanzamiento, picada y recogida con ratón, teclado o mando.
+- Lances guardados, límite diario y protección de las capturas cuando la mochila está llena.
+- Cuatro platos de pescado y cebo elaborable, conectados con investigaciones existentes y la mesa del hogar.
+- Compra de caña y cebos; venta de peces por cantidad y calidad en tienda y feria.
+- Clic izquierdo usa el acceso rápido seleccionado, con acercamiento automático al destino. Los alimentos se usan también al hacer clic en el mundo.
+- Compatibilidad de las partidas anteriores sin conceder recursos ni cobrar investigaciones de nuevo.
+
 ## v0.7.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.7.0 — transformación, huerto y comunidad
