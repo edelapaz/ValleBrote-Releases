@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.12.2",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.12.2",
+            "notes": "Valle Brote 0.12.2 — mejoras de fluidez\n\n• Menos trabajo repetido al explorar y abrir la mochila, la guía y otros menús.\n• La mochila reutiliza el orden del catálogo y sigue mostrando las cantidades actualizadas al comprar, consumir o retirar objetos.\n• Búsqueda de la guía optimizada, conservando los resultados y la búsqueda sin acentos.\n• Reutilización de estilos de botones y textos, de las consultas del inventario y de la música de inicio.\n• Conserva el diseño, los controles y el contenido de la 0.12.1, además de la partida, las opciones y toda la progresión.\n• Actualización firmada con verificación del paquete y copias de seguridad.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.12.1",
             "date": "2026-11-07",
             "title": "Valle Brote 0.12.1",
