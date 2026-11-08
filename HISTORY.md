@@ -4,6 +4,15 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.12.1 · 07/11/2026 · Publicada
+
+Valle Brote 0.12.1 — guía y compatibilidad de teclado
+
+- F1 y Esc de la guía reconocen también los eventos nativos de la interfaz de Windows, incluidos teclados de accesibilidad y entrada automatizada.
+- Una misma pulsación no abre y cierra dos veces la guía al coincidir ambos sistemas de entrada.
+- Incluye el rediseño crema y madera, retratos e iconos ilustrados, mochila renovada, instrumental original, guía con 32 temas y buscador, perfiles gráficos y zoom corregido de la 0.12.0.
+- Conserva partidas, opciones, inventario, investigaciones, animales, construcciones y recuerdos de amistad.
+
 ## v0.12.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.12.0 — menús ilustrados y guía del valle
