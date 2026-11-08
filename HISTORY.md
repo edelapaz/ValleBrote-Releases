@@ -4,6 +4,17 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.11.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.11.0 — vida del pueblo
+
+- Regalos para Alma, Bruno, Inés y Tomás, con gustos distintos y reacciones que quedan registradas.
+- Confirmación antes de entregar una unidad, calidad del regalo y límite de un detalle por vecino y día del valle.
+- Cumpleaños anuales en el calendario del valle, avisos y bonificación de amistad en regalos positivos.
+- Doce eventos de amistad con respuestas, progreso guardado y recompensas únicas.
+- Diario de amistades con gustos conocidos, cumpleaños, eventos pendientes y recuerdos que se pueden releer.
+- Compatibilidad con las partidas anteriores, conservando amistad, encargos, inventario y demás progreso.
+
 ## v0.10.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.10.0 — construcción y decoración
