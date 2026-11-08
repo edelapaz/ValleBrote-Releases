@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.12.1",
+            "date": "2026-11-07",
+            "title": "Valle Brote 0.12.1",
+            "notes": "Valle Brote 0.12.1 — guía y compatibilidad de teclado\n\n• F1 y Esc de la guía reconocen también los eventos nativos de la interfaz de Windows, incluidos teclados de accesibilidad y entrada automatizada.\n• Una misma pulsación no abre y cierra dos veces la guía al coincidir ambos sistemas de entrada.\n• Incluye el rediseño crema y madera, retratos e iconos ilustrados, mochila renovada, instrumental original, guía con 32 temas y buscador, perfiles gráficos y zoom corregido de la 0.12.0.\n• Conserva partidas, opciones, inventario, investigaciones, animales, construcciones y recuerdos de amistad.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.12.0",
             "date": "2026-11-07",
             "title": "Valle Brote 0.12.0",
