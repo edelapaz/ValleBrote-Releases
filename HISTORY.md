@@ -4,6 +4,16 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.13.1 · 08/11/2026 · Publicada
+
+Valle Brote 0.13.1 — corrección del cierre nativo de Windows
+
+- Protege el cierre frente a la reconexión de proveedores de accesibilidad de Windows durante la desconexión de UI Automation.
+- Mantiene el cierre normal de Unity y sus callbacks de guardado, sin terminar el proceso a la fuerza ni cambiar la configuración de accesibilidad del sistema.
+- Conserva el rediseño de tienda, feria, fabricación y almacén de la 0.13.0 y las mejoras de fluidez.
+- Conserva partidas, inventario, accesos rápidos, investigaciones, talentos, animales, decoración, amistad y opciones.
+- Actualización firmada con verificación de archivos y copias de seguridad.
+
 ## v0.13.0 · 08/11/2026 · Publicada
 
 Valle Brote 0.13.0 — comercio, fabricación y almacén renovados
