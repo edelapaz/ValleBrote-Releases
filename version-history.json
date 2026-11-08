@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.13.1",
+            "date": "2026-11-08",
+            "title": "Valle Brote 0.13.1",
+            "notes": "Valle Brote 0.13.1 — corrección del cierre nativo de Windows\n\n• Protege el cierre frente a la reconexión de proveedores de accesibilidad de Windows durante la desconexión de UI Automation.\n• Mantiene el cierre normal de Unity y sus callbacks de guardado, sin terminar el proceso a la fuerza ni cambiar la configuración de accesibilidad del sistema.\n• Conserva el rediseño de tienda, feria, fabricación y almacén de la 0.13.0 y las mejoras de fluidez.\n• Conserva partidas, inventario, accesos rápidos, investigaciones, talentos, animales, decoración, amistad y opciones.\n• Actualización firmada con verificación de archivos y copias de seguridad.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.13.0",
             "date": "2026-11-08",
             "title": "Valle Brote 0.13.0",
