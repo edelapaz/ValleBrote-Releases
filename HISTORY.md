@@ -4,6 +4,18 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.13.0 · 08/11/2026 · Publicada
+
+Valle Brote 0.13.0 — comercio, fabricación y almacén renovados
+
+- Tienda con catálogo ilustrado, once categorías, cesta, cantidades, subtotales, saldo y espacio disponible antes de comprar.
+- Feria semanal con navegación de compra y venta, detalle del producto, cantidades, total y confirmación de cada operación. El pedido semanal mantiene sus reglas.
+- Fabricación con navegación del taller, recetas e ingredientes disponibles, resultados, calidad y lotes según la mesa investigada. Cocina, transformación, metalurgia, carpintería y planos conservan sus requisitos.
+- Almacén del hogar con mochila y pertenencias en paralelo, capacidad visible, categorías, buscador sin distinguir acentos y transferencias por cantidad.
+- Estilo de madera, crema y verde, revisión en dos resoluciones y reutilización de catálogos e interfaz para cuidar la fluidez.
+- Conserva el guardado, inventario, accesos rápidos, investigaciones, talentos, animales, decoración y amistad. Incluye las mejoras de fluidez de la 0.12.2.
+- Actualización firmada con verificación de contenido y copias de seguridad.
+
 ## v0.12.2 · 07/11/2026 · Publicada
 
 Valle Brote 0.12.2 — mejoras de fluidez
