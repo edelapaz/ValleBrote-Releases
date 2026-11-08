@@ -4,6 +4,19 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.12.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.12.0 — menús ilustrados y guía del valle
+
+- Menús crema y madera con botones verdes, retratos ilustrados y navegación uniforme.
+- Mochila con buscador, filtros, ficha de estadísticas y nueve accesos rápidos sin duplicar objetos.
+- Diario de amistades renovado con cumpleaños, gustos y recuerdos, conservando decisiones y recompensas pendientes.
+- Guía local con más de treinta temas y buscador que reconoce palabras con o sin acentos, accesible desde el menú y F1.
+- Instrumental original para el inicio, transiciones musicales y volumen de música independiente.
+- Zoom del ratón corregido para la rueda normalizada de Unity, límites suaves y zoom dentro del hogar.
+- Opciones revisadas de sonido, zoom, ventana, resolución, calidad, sincronización e indicadores.
+- Conservación del progreso y actualizaciones firmadas con copias de seguridad.
+
 ## v0.11.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.11.0 — vida del pueblo
