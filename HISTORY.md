@@ -4,6 +4,17 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.10.0 · 07/11/2026 · Publicada
+
+Valle Brote 0.10.0 — construcción y decoración
+
+- Sillas, mesas, bancos, macetas, cercas de madera y piedra y caminos de madera y piedra.
+- Modo Decorar con cuadrícula, vista previa verde o roja, giro, movimiento y recogida de piezas.
+- Muebles y cercas con colisión; caminos transitables. Protección de cultivos, estaciones y rutas de acceso.
+- Carpintería en la mesa del hogar, fabricación por cantidad y compras en la tienda de Decoración.
+- Desbloqueos mediante investigaciones existentes, materiales de minería y almacenamiento en el hogar.
+- Guardado de existencias, posiciones, orientación y ubicación interior o exterior, conservando las partidas anteriores.
+
 ## v0.9.0 · 07/11/2026 · Publicada
 
 Valle Brote 0.9.0 — minería y metalurgia
