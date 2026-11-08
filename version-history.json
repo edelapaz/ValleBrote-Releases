@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.13.0",
+            "date": "2026-11-08",
+            "title": "Valle Brote 0.13.0",
+            "notes": "Valle Brote 0.13.0 — comercio, fabricación y almacén renovados\n\n• Tienda con catálogo ilustrado, once categorías, cesta, cantidades, subtotales, saldo y espacio disponible antes de comprar.\n• Feria semanal con navegación de compra y venta, detalle del producto, cantidades, total y confirmación de cada operación. El pedido semanal mantiene sus reglas.\n• Fabricación con navegación del taller, recetas e ingredientes disponibles, resultados, calidad y lotes según la mesa investigada. Cocina, transformación, metalurgia, carpintería y planos conservan sus requisitos.\n• Almacén del hogar con mochila y pertenencias en paralelo, capacidad visible, categorías, buscador sin distinguir acentos y transferencias por cantidad.\n• Estilo de madera, crema y verde, revisión en dos resoluciones y reutilización de catálogos e interfaz para cuidar la fluidez.\n• Conserva el guardado, inventario, accesos rápidos, investigaciones, talentos, animales, decoración y amistad. Incluye las mejoras de fluidez de la 0.12.2.\n• Actualización firmada con verificación de contenido y copias de seguridad.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.12.2",
             "date": "2026-11-07",
             "title": "Valle Brote 0.12.2",
