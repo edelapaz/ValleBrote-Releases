@@ -4,6 +4,17 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.12.2 · 07/11/2026 · Publicada
+
+Valle Brote 0.12.2 — mejoras de fluidez
+
+- Menos trabajo repetido al explorar y abrir la mochila, la guía y otros menús.
+- La mochila reutiliza el orden del catálogo y sigue mostrando las cantidades actualizadas al comprar, consumir o retirar objetos.
+- Búsqueda de la guía optimizada, conservando los resultados y la búsqueda sin acentos.
+- Reutilización de estilos de botones y textos, de las consultas del inventario y de la música de inicio.
+- Conserva el diseño, los controles y el contenido de la 0.12.1, además de la partida, las opciones y toda la progresión.
+- Actualización firmada con verificación del paquete y copias de seguridad.
+
 ## v0.12.1 · 07/11/2026 · Publicada
 
 Valle Brote 0.12.1 — guía y compatibilidad de teclado
