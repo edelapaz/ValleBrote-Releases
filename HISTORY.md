@@ -4,6 +4,18 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.13.2 · 15/11/2026 · Publicada
+
+Valle Brote 0.13.2 — correcciones y equilibrio de la economía inicial
+
+- Reduce las entradas repetidas de semillas de pedidos, cestas y cosechas, manteniendo el apoyo de los regalos diarios.
+- Ajusta las conservas y sopas: requieren más ingredientes y cocinar consume vigor. La producción doble utiliza los ingredientes de ambas unidades.
+- Ajusta el vigor de cosechar para que las mejoras conserven su utilidad sin eliminar el coste.
+- Corrige el precio y pago de la feria con Buen trato, el acceso al botín del diario y los botones de Historias y Vida del pueblo.
+- Muestra la calidad de los productos antes de entregarlos y avisa cuando una cesta sustituye otro accesorio.
+- Mejora avisos agrícolas y textos. Conserva las partidas, recursos y recompensas ya aceptadas; no recorta las reservas existentes.
+- Incluye actualización firmada con verificación de archivos y copias de seguridad.
+
 ## v0.13.1 · 08/11/2026 · Publicada
 
 Valle Brote 0.13.1 — corrección del cierre nativo de Windows
