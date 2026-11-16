@@ -4,6 +4,18 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.14.0 · 15/11/2026 · Publicada
+
+Valle Brote 0.14.0 — avatares, herramientas y Mercado del Brote
+
+- Incorpora los avatares masculino y femenino en 3D, con rostros, cabello, trenza, manos y vestuario renovados. La selección, Equipo y la partida muestran el mismo personaje personalizado.
+- Renueva la creación de personaje con los pasos Identidad, Apariencia y Especialidad, seis peinados y vista previa que permite girar el modelo.
+- Mejora los iconos de cuidados, ganadería, pesca, minería, decoraciones, artesanía y herramientas del Mercado del Brote.
+- Permite mover e intercambiar los nueve accesos rápidos arrastrándolos con el ratón, tanto en la barra como en la mochila.
+- Corrige el uso de herramientas con el ratón: el personaje se acerca al lugar y realiza la acción. Mejora el clic de la regadera en los bordes de las parcelas.
+- Aclara los requisitos de Compost agrícola y permite ir a la investigación previa. Oculta las ofertas y recetas que todavía requieren investigación.
+- Conserva las partidas, recursos, investigaciones, apariencia y equipo existentes. Incluye actualización firmada, verificación de archivos y copias de seguridad.
+
 ## v0.13.2 · 15/11/2026 · Publicada
 
 Valle Brote 0.13.2 — correcciones y equilibrio de la economía inicial
