@@ -4,6 +4,16 @@ Cada entrega conserva su fecha y novedades para seguir el progreso del proyecto.
 
 [Ver la versión más reciente](https://github.com/edelapaz/ValleBrote-Releases/releases/latest)
 
+## v0.14.1 · 17/11/2026 · Publicada
+
+Valle Brote 0.14.1 — mundo, decoración y compostaje
+
+- Renueva el mundo 3D con colinas, nuevos detalles en el pueblo y luz más cálida.
+- Actualiza el diario, el creador, las ilustraciones de la guía y el vestuario.
+- Agrega decoración navideña y un regalo por jugar más de una hora activa.
+- Amplía el árbol a 16 talentos y alinea los controles de cantidad.
+- Mejora la compostera con una guía ilustrada y rendimiento por cantidad y calidad.
+
 ## v0.14.0 · 15/11/2026 · Publicada
 
 Valle Brote 0.14.0 — avatares, herramientas y Mercado del Brote
