@@ -1,6 +1,13 @@
 {
     "entries": [
         {
+            "version": "0.14.1",
+            "date": "2026-11-17",
+            "title": "Valle Brote 0.14.1",
+            "notes": "Valle Brote 0.14.1 — mundo, decoración y compostaje\n\n• Renueva el mundo 3D con colinas, nuevos detalles en el pueblo y luz más cálida.\n• Actualiza el diario, el creador, las ilustraciones de la guía y el vestuario.\n• Agrega decoración navideña y un regalo por jugar más de una hora activa.\n• Amplía el árbol a 16 talentos y alinea los controles de cantidad.\n• Mejora la compostera con una guía ilustrada y rendimiento por cantidad y calidad.",
+            "status": "Publicada"
+        },
+        {
             "version": "0.14.0",
             "date": "2026-11-15",
             "title": "Valle Brote 0.14.0",
